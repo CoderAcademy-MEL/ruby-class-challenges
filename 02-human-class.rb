@@ -1,8 +1,10 @@
 # Specs
 
-# This challenge involves an understanding of how inheritence works through a Human class as well as two sub classes Hippy and Influencer
+# This challenge involves creating a Human class with some attributes 
 
-# It also involves utlilising the shorthand getters and setters methods
+# It also needs to use the shorthand syntax for getter and setter methods (attr_reader, attr_writer, attr_accessor)
+
+# Finally you'll need to use inheritence to create two sub classes (Hippy and Influencer) with their own instance methods
 
 # 1. Create a Human class
 

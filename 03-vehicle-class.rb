@@ -1,8 +1,8 @@
 # Specs
 
-# This challenge involves an understanding of how inheritence works
+# This challenge involves an understanding of how the basics of inheritence works
 
-# It requires you to have one class (Vehicle) which defines our shared behaviour and our other classes (Car, MotorBike) to implement this behaviour as well as their own unique behaviours
+# It requires you to have one class (Vehicle) which defines some shared behaviour; and our other classes (Car, MotorBike) to implement this behaviour as well as their own unique behaviours
 
 # 1. Implement a Vehicle class. It should accept make and model properties when you create an object.
 # => civic = Vehicle.new("Honda", "Civic")
