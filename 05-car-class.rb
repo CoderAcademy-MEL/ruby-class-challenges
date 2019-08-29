@@ -1,3 +1,9 @@
+# Specs
+
+# This challenge involves building a car class
+
+# The end product will be a class that has methods to calculate the commute distance for our cars as well as their capacities 
+
 # 1. You'll need the starter code below for the following questions
 
 # class Car

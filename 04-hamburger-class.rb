@@ -1,3 +1,9 @@
+# Specs
+
+# This challenge involves building a hamburger class
+
+# The end product will be a menu for a hamburger resturant that allows a user to interact with the menu itself
+
 # 1. You'll need the starter code below for the following questions
 
 # class Hamburger

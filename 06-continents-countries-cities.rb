@@ -1,3 +1,9 @@
+# Specs
+
+# This challenge involves building a continent, country, state and city class
+
+# The end product will be similar to our albums, artists and songs challenge in understanding that a city can be nested inside of a continent object
+
 # 1. Define a continent class. Give this class a couple of attributes, one of which should be countries. This will be an attribute that is an array of country objects. 
 
 # 2. Define a country, state and city class. 
