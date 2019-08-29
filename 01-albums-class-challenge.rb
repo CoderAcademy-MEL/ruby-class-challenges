@@ -1,4 +1,8 @@
-# Create three classes: Artist, Album and Song
+# Specs
+
+# In this challenge we're going to create a database of artists, albums and songs
+
+# The end goal will be being able to access the songs from our artist objects
 
 # Artist class
 
